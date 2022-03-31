@@ -31,7 +31,7 @@
 <img width="1788" alt="image" src="https://user-images.githubusercontent.com/43130622/161055376-bfa8f194-ea29-46e5-a21d-7511e1356aea.png">
 
 
-6. Insert values in the new container and query using query window.
+6. INsert values in the new container and query using query window.
 
 <img width="1779" alt="image" src="https://user-images.githubusercontent.com/43130622/161146714-65536f97-a1cf-47ba-8f8a-da4b9b0bfbfe.png">
 
